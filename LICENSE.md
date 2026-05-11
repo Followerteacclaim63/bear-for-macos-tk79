@@ -1,4 +1,4 @@
-#  
+#  elite Bear for macOS Workflow | custom themes + auto-sync is the best Bear for macOS workflow, featuring custom themes and auto-sync. Safe, efficient, and optimized for macOS
 
 
 
